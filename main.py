@@ -46,4 +46,6 @@ last_name = input()
 print(" Enter your age: ")
 age = input()
 
-print("Your name is " + first_name + ", your last name is " +  last_name + ", and your are " + age + " years old")
+print()
+print()
+print("Your name is " + first_name + ", your last name is " +  last_name + ", and you are " + age + " years old")
